@@ -40,8 +40,13 @@ Palabras ordenadas:
 - Ruby
 
 Ingrese la palabra que desea buscar: Python
-Python está en la lista.
+Python está en la lista. 
+
 ```
 
 ### Autor
 **Karen Cristancho**
+
+📬 Contacto
+- 📧 Correo electrónico: criscacereskarenlorena@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karencristancho
